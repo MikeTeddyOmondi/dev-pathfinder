@@ -36,13 +36,14 @@ export default function Home() {
         preTitle='Testimonials'
         title="Here's what our beneficiaries said"
       >
-        These are some of the testimonials from our esteemed beneficiaries of our platform.
+        These are some of the testimonials from our esteemed beneficiaries of
+        our platform.
       </SectionTitle>
 
       <Testimonials />
 
       <SectionTitle preTitle='FAQ' title='Frequently Asked Questions'>
-        Let's answer your doubts here...
+        Let&apos;s answer your doubts here...
       </SectionTitle>
 
       <Faq />
